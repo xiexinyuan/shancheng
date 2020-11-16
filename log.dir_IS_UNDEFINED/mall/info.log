@@ -1,0 +1,15 @@
+[INFO ] [2020-11-16 11:37:29.984] [main] [c.a.s.ShanchengApplication] - Starting ShanchengApplication on DESKTOP-1J6J9D9 with PID 13660 (D:\idea-workspace\shancheng\target\classes started by PC-USER in D:\idea-workspace\shancheng)
+[INFO ] [2020-11-16 11:37:29.984] [main] [c.a.s.ShanchengApplication] - The following profiles are active: dev
+[WARN ] [2020-11-16 11:37:31.029] [main] [o.m.s.m.ClassPathMapperScanner] - No MyBatis mapper was found in '[com.amazon.shancheng.mapper]' package. Please check your configuration.
+[INFO ] [2020-11-16 11:37:31.154] [main] [o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] - Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$57dfdcee] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] [2020-11-16 11:37:31.169] [main] [o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker] - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d85f8fbc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] [2020-11-16 11:37:31.468] [main] [o.s.b.w.e.t.TomcatWebServer] - Tomcat initialized with port(s): 8080 (http)
+[INFO ] [2020-11-16 11:37:31.478] [main] [o.a.c.h.Http11NioProtocol] - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] [2020-11-16 11:37:31.482] [main] [o.a.c.c.StandardService] - Starting service [Tomcat]
+[INFO ] [2020-11-16 11:37:31.483] [main] [o.a.c.c.StandardEngine] - Starting Servlet engine: [Apache Tomcat/9.0.22]
+[INFO ] [2020-11-16 11:37:31.574] [main] [o.a.c.c.C.[.[.[/mall]] - Initializing Spring embedded WebApplicationContext
+[INFO ] [2020-11-16 11:37:31.574] [main] [o.s.w.c.ContextLoader] - Root WebApplicationContext: initialization completed in 1465 ms
+[INFO ] [2020-11-16 11:37:32.249] [main] [o.s.s.c.ThreadPoolTaskExecutor] - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] [2020-11-16 11:37:32.797] [main] [o.a.c.h.Http11NioProtocol] - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] [2020-11-16 11:37:32.813] [main] [o.s.b.w.e.t.TomcatWebServer] - Tomcat started on port(s): 8080 (http) with context path '/mall'
+[INFO ] [2020-11-16 11:37:32.813] [main] [c.a.s.ShanchengApplication] - Started ShanchengApplication in 3.431 seconds (JVM running for 4.243)
